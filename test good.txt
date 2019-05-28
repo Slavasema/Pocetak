@@ -1,2 +1,6 @@
 print good bye *
 good test *
+
+provera konflikta
+jos
+radimo dalije
