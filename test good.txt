@@ -1,2 +1,2 @@
-print good bye
-good test
+print good bye *
+good test *
